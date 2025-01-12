@@ -1,0 +1,10 @@
+{
+    "host": "localhost",
+    "backup_date": "2025-01-12 21:36:27",
+    "akeeba_version": "9.9.4",
+    "php_version": "8.2.18",
+    "root": "C:\\wamp64\\www\\Proyectofinaljoomla\\",
+    "custom_public": false,
+    "JPATH_ROOT": "C:\\wamp64\\www\\Proyectofinaljoomla",
+    "JPATH_PUBLIC": "C:\\wamp64\\www\\Proyectofinaljoomla"
+}
